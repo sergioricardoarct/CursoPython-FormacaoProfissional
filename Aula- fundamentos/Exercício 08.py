@@ -1,3 +1,7 @@
+# 1 - Crie um programa que responda se você foi aprovado numa prova.
+# Você somente foi aprovado numa prova se sua média for maior ou igual que 7
+# ou se sua nota no exame for maior ou igual a 5. Leia esses valores por input.
+
 nota1= input("qual foi a primeira nota:")
 nota2= input("qual foi a segunda nota:")
 
@@ -18,7 +22,10 @@ print("Aprovado")
 
 
 
-#Senha#
+# 2 - Crie  um programa que diga se a senha esta correta e portanto você tem
+# acesso ao sistema. A senha devera ser salva no código, e a tentativa deve ser
+# lida por input.
+
 
 senhausada=input("Senha:")
 senha='1234'

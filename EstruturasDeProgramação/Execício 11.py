@@ -1,4 +1,6 @@
-# 5 numeros#
+# 1 - Crie um programa que receba 5 números e retorne
+# a média aritmética entre esses números
+
 
 soma = 0
 lidos = 0
@@ -10,7 +12,8 @@ while lidos < 5:
 media = soma / 5
 print(f'Media = {media}')
 
-# 5 numeros positivo #
+# 2 - Crie um programa que receba 5 números, realiza a soma destes números,
+# mas caso um destes números seja negativo não considere ele na soma.
 
 soma = 0
 lidos = 0
